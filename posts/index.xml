@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luke Liu</title>
-    <link>https://lukeliu.github.io/</link>
-    <description>Recent content on Luke Liu</description>
+    <title>Posts on Luke Liu</title>
+    <link>https://lukeliu.github.io/posts/</link>
+    <description>Recent content in Posts on Luke Liu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Aug 2024 01:10:22 -0700</lastBuildDate>
-    <atom:link href="https://lukeliu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lukeliu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HELLOOOOOO :)</title>
       <link>https://lukeliu.github.io/posts/first/</link>
