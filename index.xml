@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luke Liu</title>
+    <title>luke liu</title>
     <link>https://lukeliu56809.github.io/lukeliu.github.io/</link>
-    <description>Recent content on Luke Liu</description>
+    <description>Recent content on luke liu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Aug 2024 01:10:22 -0700</lastBuildDate>
@@ -13,6 +13,20 @@
       <link>https://lukeliu56809.github.io/lukeliu.github.io/posts/first/</link>
       <pubDate>Mon, 19 Aug 2024 01:10:22 -0700</pubDate>
       <guid>https://lukeliu56809.github.io/lukeliu.github.io/posts/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lukeliu56809.github.io/lukeliu.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lukeliu56809.github.io/lukeliu.github.io/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lukeliu56809.github.io/lukeliu.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lukeliu56809.github.io/lukeliu.github.io/resume/</guid>
       <description></description>
     </item>
   </channel>
