@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>luke liu</title>
-    <link>http://localhost:1313/lukeliu.github.io/</link>
+    <link>https://lukeliu56809.github.io/lukeliu.github.io/</link>
     <description>Recent content on luke liu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Sep 2024 18:57:27 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/lukeliu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lukeliu56809.github.io/lukeliu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
-      <link>http://localhost:1313/lukeliu.github.io/posts/helloworld/</link>
+      <link>https://lukeliu56809.github.io/lukeliu.github.io/posts/helloworld/</link>
       <pubDate>Wed, 04 Sep 2024 18:57:27 -0700</pubDate>
-      <guid>http://localhost:1313/lukeliu.github.io/posts/helloworld/</guid>
+      <guid>https://lukeliu56809.github.io/lukeliu.github.io/posts/helloworld/</guid>
       <description>Hello! I just revamped the website so we&amp;rsquo;re starting from scratch unfortunately haha. Also, don&amp;rsquo;t bother clicking on any of the links in the header (they don&amp;rsquo;t work hehe). I&amp;rsquo;m not too sure what the goal is, but I think I&amp;rsquo;ll try to blog everyday so that I can remember what I&amp;rsquo;ve done and accomplished in my final year of undergrad ;-;. I think this will be some kind of way to &amp;ldquo;immortalize&amp;rdquo; my memories.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/lukeliu.github.io/projects/</link>
+      <link>https://lukeliu56809.github.io/lukeliu.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lukeliu.github.io/projects/</guid>
+      <guid>https://lukeliu56809.github.io/lukeliu.github.io/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/lukeliu.github.io/resume/</link>
+      <link>https://lukeliu56809.github.io/lukeliu.github.io/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lukeliu.github.io/resume/</guid>
+      <guid>https://lukeliu56809.github.io/lukeliu.github.io/resume/</guid>
       <description> </description>
     </item>
   </channel>
